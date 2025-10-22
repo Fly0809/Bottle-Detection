@@ -118,4 +118,4 @@ python val.py \
   --data /home/rmb-stud-uni/bottles_003_yolo_dataset/data.yaml \
   --weights runs/train/exp/weights/best.pt \
   --img 640 \
-  --task val
+  --task va
